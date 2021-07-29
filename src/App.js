@@ -19,7 +19,7 @@ const pages = [
   { path: "/about", component: <About /> },
   { path: "/dashboard", component: <Dashboard /> },
   { path: "/service", component: <Service /> },
-  { path: "/Product", component: <Product /> },
+  { path: "/product", component: <Product /> },
   { path: "/constructor", component: <Constructor /> },
   { path: "/news", component: <News /> },
   { path: "/contacts", component: <Contacts /> },

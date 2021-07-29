@@ -1,0 +1,75 @@
+
+footer{
+    background-color: #09152D;
+    color: white;
+    padding:30px 0;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+.footers{
+    margin: 15px;
+}
+.smallCard{
+    background-color: white;
+    box-shadow: rgb(17 32 69) 0px 6px 36px -20px;
+    color: rgb(17, 32, 69);
+    min-height: 220px;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 20px 10;
+    margin: 10px;
+    padding-top: 30px;
+    text-align: center;
+}
+.chiziq{
+    text-decoration: none;
+}
+.swpimg{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.imgg{
+    height: 400px;
+    width: 300px;
+    text-align: center;
+   
+}
+.aylanish{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+*{
+    box-sizing: border-box;
+}
+.section{
+    background-image: linear-gradient(45deg,rgba(31, 31, 31, 0.349),rgba(31, 31, 31, 0.349)), url("https://osten-co.uz/images/index/about.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: white;
+    height: 60vh;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    min-height: 500px;
+}
+.kattaHarf{
+    font-size: 50px !important;
+    text-shadow: rgb(0 0 0) 5px 5px 5px;
+    font-weight: 900;
+    color: white;
+}
+.kichiikHarf{
+    font-size: 22px;
+    margin: 10px 0px 0px;
+    font-weight: 700;
+}
